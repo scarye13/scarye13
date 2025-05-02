@@ -46,10 +46,3 @@ I'm a Frontend Developer and Digital Creator from Bulgaria! 🌱 ✨
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scarye13/scarye13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scarye13/scarye13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/scarye13/scarye13/output/pacman-contribution-graph.svg">
-</picture>
-
-###
